@@ -6,11 +6,9 @@ Koppel de database aan dit programma, en het zou moeten werken.
 
 Regels die je moet bewerken om je database te koppelen:
 
-  Bestand: Form1.cs
-  Regels: 24 & 25
+  Bestand: Form1.cs | Regels: 24 & 25
   
-  Bestand: Register.cs
-  Regels: 17, 49 t/m 54
+  Bestand: Register.cs | Regels: 17, 49 t/m 54
   
   En natuurlijk je Sql bestanden, wanneer de tables niet overeenkomen met jouw database.
 
