@@ -1,0 +1,13 @@
+E:\Csharp\Login\Login\bin\Debug\Login.exe.config
+E:\Csharp\Login\Login\bin\Debug\Login.exe
+E:\Csharp\Login\Login\bin\Debug\Login.pdb
+E:\Csharp\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\Csharp\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Csharp\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\Csharp\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\Csharp\Login\Login\obj\Debug\Login.exe
+E:\Csharp\Login\Login\obj\Debug\Login.pdb
+E:\Csharp\Login\Login\obj\Debug\Login.Form1.resources
+E:\Csharp\Login\Login\obj\Debug\Login.Welcome.resources
+E:\Csharp\Login\Login\obj\Debug\Login.Register.resources
+E:\Csharp\Login\Login\obj\Debug\Login.Agenda.resources
